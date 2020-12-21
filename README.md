@@ -4,7 +4,7 @@
 
 ![Emiliano's github stats](https://github-readme-stats.vercel.app/api?username=esune&show_icons=true?theme=gotham)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esune&layout=compact)](https://github.com/anuraghazra/esune)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esune&layout=compact)](https://github.com/esune)
 
 
 <!--
