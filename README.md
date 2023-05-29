@@ -2,9 +2,9 @@
 
 ----
 
-![Emiliano's github stats](https://github-readme-stats.vercel.app/api?username=esune&show_icons=true?theme=gotham)
+![Emiliano's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=esune&show_icons=true?theme=gotham)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esune&layout=compact)](https://github.com/esune)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=esune&layout=compact)](https://github.com/esune)
 
 
 <!--
